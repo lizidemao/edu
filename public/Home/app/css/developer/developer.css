@@ -1,0 +1,59 @@
+.org-header {
+    padding: 100px 0;
+    color: #fff;
+    background: url(/Home/img/org-bg.png);
+    text-align: center;
+}
+.org-header h2 {
+    font-size: 45px;
+}
+.org-header p {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.org-body-desc {
+    padding: 50px 0 150px;
+}
+.org-body-desc .media-body {
+    font-size: 16px;
+}
+.org-body-courses {
+    padding: 50px 0;
+    background: #fff;
+}
+.org-body-courses .container {
+    position: relative;
+    top: -110px;
+}
+.org-body-courses .media {
+    display: block;
+    padding: 10px;
+    margin-bottom: 50px;
+    color: #333;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 4px 2px #eee;
+}
+.org-body-courses .media:hover,
+.org-body-courses .media:focus {
+    text-decoration: none;
+}
+.org-body-courses .media img {
+    width: 80px;
+    height: 80px;
+    border-radius: 4px;
+    box-shadow: 0 0 4px 2px #eee;
+}
+.org-body-courses .media-body h4 {
+    word-break: break-all;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+.org-course-more {
+    text-align: center;
+}
+.org-course-more .btn {
+    padding: 4px 20px;
+    border-radius: 4px;
+}
